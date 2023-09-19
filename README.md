@@ -1,4 +1,4 @@
-# Data Analysis and Project Portfolio
+# Data Analysis with Python  and Python  Project Portfolio
 
 Welcome to my portfolio of Python projects and data analysis techniques! In this README, I'll provide an overview of my skills and highlight some of my key projects.
 
